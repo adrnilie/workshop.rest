@@ -4,6 +4,22 @@
       "id": 1,
       "task": "clean the laundry",
       "done": false
+    },
+    {
+      "id": 2,
+      "task": "walk the dog",
+      "done": false
+    },
+    {
+      "id": 3,
+      "task": "clean your room",
+      "done": false
+    },
+    {
+      "id": 4,
+      "task": "attent workshop .... whaaaa'??",
+      "done": false
     }
   ]
 }
+  
